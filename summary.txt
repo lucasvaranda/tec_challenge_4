@@ -1,0 +1,32 @@
+Total de frames no vídeo: 3326
+
+Resumo das pessoas detectadas:
+- Roberto: 180 frames (5.41%)
+- Guilherme: 180 frames (5.41%)
+- Matheus: 180 frames (5.41%)
+- Jorge: 171 frames (5.14%)
+- Vitor: 160 frames (4.81%)
+- Bruno: 72 frames (2.16%)
+- Andre: 72 frames (2.16%)
+- Roberta: 52 frames (1.56%)
+- Julia: 37 frames (1.11%)
+- Desconhecido: 33 frames (0.99%)
+- Iago: 30 frames (0.90%)
+
+Resumo das atividades detectadas:
+- Bracos abaixados: 2053 frames (61.73%)
+- Maos no rosto: 395 frames (11.88%)
+- Braco direito para cima: 211 frames (6.34%)
+- Braco esquerdo para cima: 38 frames (1.14%)
+- Mao esquerda levantada: 36 frames (1.08%)
+- Mao direita levantada: 29 frames (0.87%)
+- Bracos para cima: 24 frames (0.72%)
+
+Resumo das emoções detectadas:
+- happy: 962 frames (28.92%)
+- neutral: 894 frames (26.88%)
+- sad: 878 frames (26.40%)
+- fear: 516 frames (15.51%)
+- surprise: 148 frames (4.45%)
+- angry: 126 frames (3.79%)
+- disgust: 4 frames (0.12%)
